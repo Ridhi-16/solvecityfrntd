@@ -6,7 +6,7 @@ import { toast } from "react-toastify";
 
 import { MoonLoader } from "react-spinners";
 import EmployeeHeader from "./EmployeeHeader";
-import Chat from "../User/Chat/Chat";
+// import Chat from "../User/Chat/Chat";
 import ChatWidget from "../user/chat/ChatWidget";
 // import CropBubble from "../pages/CropBubble";
 
