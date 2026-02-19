@@ -2,7 +2,7 @@ import { Outlet } from "react-router-dom";
 import Header from "./Header";
 import Footer from "./Footer";
 import { useEffect, useState } from "react";
-import Chat from "../User/Chat/Chat";
+// import Chat from "../User/Chat/Chat";
 import ChatWidget from "../user/chat/ChatWidget";
 // import FloatingAI from "../User/FloatingAI";
 // import { MoonLoader } from "react-spinners";
